@@ -1,0 +1,116 @@
+{sample: true}
+# Chapter Two - Rallying Support
+
+I broached the idea with my wife the next day. We weren’t able to speak long, though, because she was taking a flight for a reunion with friends that same day. That was a little disappointing, given my impatience, and that I wanted her to feel good about this potential decision. Getting resolution there would have to wait, though I didn’t know quite how long.
+
+After bringing her to the airport, I met my Ryan outside Wok in the Park off Louisiana Ave. Even though there was a table open outside, his wide, warm smile wouldn’t keep us warm enough, so we waited briefly to sit indoors.
+
+Why, out of everyone, did I choose to speak about my plans to Ryan? Because I knew he would listen. And I wanted someone in my family to know and be on my side.
+
+Ryan had become the glue in our family given that he was six years behind me and was the last of the three sons, meaning he lived with Mom and Dad alone for those years, in Beijing and then Calgary and then Houston, after first my older brother Mark, and then I, went off to college. I am grateful for both of my brothers and was taught when visiting a tea shop in Xi’an near where the Terra Cotta Warriors were buried, that three sons was notable and not to be taken for granted: “San ge,” said a waiter as she delivered melon slices we had not ordered. Soon after it dawned on me that three sons in a one-child state like China was rare if not unheard of.
+
+My brother chewed on edamame while I laid out the argument for running, as well as the concerns I had.
+
+“What if Trump actually endorses me?” I said. 
+“That would be something,” he said.
+
+But both of us knew I couldn’t count on that, as I was a no name and despite upcoming efforts would remain so to most people who weren’t quite interested in politics, which was most people. 
+
+And yet, it felt good to dream. Apparently, I was so excited to share the potential of all this that, part way through the meal, I noticed Ryan’s plate nearly empty. When I looked down at my plate, Ryan said, “Can I try some of that?”
+
+“Sure,” I laughed, “why not.” 
+
+“You know,” said Ryan, “at the start of this conversation, I was worried. But now I’m kind of excited for you.” 
+
+I smiled. “Good, that’s what I wanted to hear.”
+
+“Just don’t go spending all your money on the campaign.” I would spend very little on the campaign and accept zero political donations, but I would find a way into financial troubles by a different path…
+
+The next day, I called Rick Weible. 
+
+We’d first spoken about nine months prior when he’d said audits probably weren’t going to happen in Minnesota, even though I was advocating for them. This was the first of many things Rick told me that inevitably turned out to be true. I don’t think he can exactly see the future, like Paul Atreides in the science fiction novel, Dune, but I believe having context in computers, politics, and particularly elections, along with critical thinking, allows him to achieve this. He’s also particularly good at drawing turtles out of shells, so to speak. More on that later.
+
+The fact that Rick took time to speak to me at all was generous of him. At that time I was mostly spinning my wheels online in a Telegram channel, keyboard-warrior-ing, but there was some work accomplished by getting seven legislators to attend Mike Lindell’s Cyber Symposium, the most from any state. Those legislators still haven’t done much if anything to help. 
+
+Rick and I had met for the first time at an event put on by an organization called I Thought I Voted in October 2021, featuring Rick, a computer expert who had become a mentor of mine. On that evening, I met the organizer, Teri Dickinson, at the sign-in table. When I asked if I could record the event, she explained that the videographer hadn’t shown up, and then, as if deciding that she could trust me, said I could do so if I liked. But lacking a tripod, I clumsily aimed the camera between Rick and his slides. 
+
+In his background it was explained that as mayor of St. Bonifacius, Rick had declined the 2016 KNOWiNK electronic poll pad contract after hacking into the repurposed iPads within minutes. These poll pads are nevertheless still used today despite being an obvious way to monitor and modify election data in real time. KNOWiNK also recently introduced a Poll Print product which allows ballots to be printed on demand.
+One of Rick’s slides stood out to me. It was a map of the Minnesota counties, as well as a zoomed in map of the metro counties, which highlighted a gap of 734,000 absentee ballots (not connected to a voter) in Minnesota’s statewide voter registration system (SVRS) following the 2020 election, about 20% of the total. 
+
+This is significant for a few more reasons. In statutes there is one database. In Minnesota Voters Alliance vs Simon in 2019, there was no mention of a separate database. Law also requires in Minnesota Statute 203B.121 that  upon receiving absentee ballots they are to be immediately entered in the statewide voter registration system. 
+Another way of looking at this: There were more absentee ballots counted than what the SVRS voter rolls showed by over 700,000, 25 days following the election and five days after certification. Bear in mind the voter rolls do show the method of voting for each voter: mail in, absentee, or in precinct on election day. 
+
+Later, it was learned there is a separate module for absentee voting: ballots are tracked in (using a barcode), and then a click of a button syncs the data from that module with the SVRS. This could have been disclosed with the MN Supreme Court, and was not. 
+
+Finally, for, now, consider the short ten-day window to challenge an election post-certification. After five days there were still over 700,000 missing records, so to speak, and on the in-person voting side, the election code allows 45 days for data entry. Does that mean that Minnesota laws prevent discovery to challenge an election?
+
+A few months later, after a county commissioner meeting, Rick invited me to sit with him in the foyer of the Dakota County Government Center to show me some evidence he had and predict how he thought things would go there and elsewhere.
+
+On the phone, I asked Rick what he thought about the idea to run for SOS. 
+
+He explained that other candidates, meaning Kim Crocket and Kelly Jahner-Byrne, were not ignoring but also not putting to good use the data and evidence that he and Susan Smith were sharing with them. We had both had confidence in Philip Parrish, a former candidate for Governor as well—who also announced on July 17, 2024 his intent to run for Minnesota Governor in 2026—but he had taken himself out of the race in October 2021, with quite a scathing letter about the people currently controlling the MNGOP, who he often calls fake republicans or nefarious actors.
+
+Rick talked about what it would take to run and suggested I consider also continuing to document and write and research. “And make sure you get the signatures needed for the endorsement.”
+
+At the time, it sounded like Rick would support me, if I wanted to go ahead with the plan. Maybe he was only neutral on the idea, but at the time it felt better than that. When I get my mind set on something, even No’s can sound like Yes’s. 
+
+Next I called Philip Parrish. Phil had spent 21 years in the Navy, retiring as a Lieutenant Commander in Naval Intelligence. We had spoken just once before, encouraging him about a speech he was going to give. I had also joined a Slack channel and a Telegram channel organized to support his run for secretary of state. It had been tough to hear that he was backing out, at the time, but of course now it presented a window of opportunity. I wanted to check that he wouldn’t change his mind. Because if he was running, I wanted to support him. But it was clear he had made his decision.
+He said all I needed to do to run for SOS was file for any party during the filing period, May 17-31, 2022.
+
+Later, outside the scope of this story, in December 2022, Phil was in a multi-car crash on the highway en route to Saint Cloud, where a Republican Party of Minnesota State Central Committee meeting was to take place, where it was expected that Phil would run for election for Chair. I was already in Saint Cloud, and had stayed the previous night with Edwin and Lisa Hahn. But since I was planning to attend the meeting as a guest, I didn’t need to be there at the beginning. So I drove south an hour to fetch Phil. I picked him up at Holiday gas station on the edge of Minneapolis and Bloomington. On the drive we were able to have a good conversation, even if I went on a bit too long about Project Apario. Phil got into the meeting that day, but I was trespassed by the MNGOP Executive Director Mike Lonergan when I asked him an important question, the substance of which we’ll get to soon enough.
+
+At this point, Ryan was with me. Rick would support me. Phil wasn’t running.
+
+It was time to call Nathan.
+
+Nathan had gained my respect when he’d meticulously explained why a particular affidavit, which was being distributed by some that I was associated with who wanted election audits through the Telegram channel, was little better than waste paper. It was also Nathan who had suggested going to Todd County, where many Amish lived (Dr. Frank had said to Vote Amish many times) which was what kicked off my understanding of cast vote records when first the auditor and then the county attorney denied their existence.
+
+Nathan, about ten years my senior and no slouch digitally nor in the skill of discernment, said it was a common pattern for groups like the one on Telegram, where I was simply known as Sam, with the handle @SamGam369, to start up and then fragment. But he had been watching anyway. I left my post as communications lead after only 45 days, peacefully, on his recommendation, but maintained contact with people like Jeremy Pekula and Molly Bellmont. I would later meet Paul (at The Moment of Truth) and Tracey as well. Terianne sent us a blanket and book when my son was born.
+
+Nathan went on to become a mentor of mine as well. Where Andrei taught me about information warfare, and where Rick taught me about elections, Nathan taught me about spirituality. He often responded to questions I had with strings of verses, sometimes full chapters, from the Bible, usually the Amplified version which includes translations of the ancient Greek in brackets. Amplified is a verbose read but at least, relative to some of the hundreds (possibly thousands) of versions of the Bible, a little bit less is left up for interpretation or overtly altered from earlier versions.
+
+He asked me why I wanted to run.
+
+“I don’t know if I can say exactly.” 
+
+The true answer, at that time, was something like, Because Andrei had suggested it.
+But it felt sheepish to admit that aloud. I mean, was I truly that impressionable? Maybe. But if this actually was a good idea, did it matter that I couldn’t express WHY? 
+It was still a righteous thing to do, right? 
+
+Else Minnesotans would have no candidate for chief election officer even posing the question about the validity of past elections nor seriously challenging the status quo. 
+Still, looking back, it was a reminder that it is important to speak clearly because not everyone can read your mind.
+
+When my wife got back from her trip, I made my pitch.
+
+“What do you think? I want to do this.” 
+
+Her shoulders slumped. “Can’t someone else do it?”
+
+At this point, maybe I could have slowed down. It was a bit lost on me that she had gone away for the weekend only to return to her husband suggesting a fairly big change. Not only for me, but for both of us. Me running for SOS would affect her too. We were a few years into our marriage and had yet to have children, too. “I don’t know. I wanted Phil to run. But he isn’t anymore.”
+
+“What about the other candidates you’ve mentioned?”
+
+“Kim and Kelly are barely talking about election integrity.” 
+
+She sighed heavily and sat down on the couch. She actually had reason to be tired given that her group had taken more than a few extra hours to get settled in Florida, in part because President Trump arrived there, rerouting one of their planes.
+
+I remained standing, getting a bit frustrated that she wasn’t immediately on board. I’d thought a lot of it through and wished I could translate what I was expecting. “I really want to do this. What are you worried about?”
+
+“One of my greatest fears was ever marrying a politician.” 
+
+Now it was my turn to sigh. “Nathan didn’t like the idea either.” 
+
+“But you still do, don’t you?” 
+
+“I don’t know… I mean, I do. Someone has to speak up about this.” 
+
+By the end of the conversation I agreed to do a bit more recon before making a final decision. I’d gone into it hoping to have everyone that I trusted in full support, but it didn’t look like that was going to happen. As Rick had mentioned, the MNGOP convention was not far away, and if I wanted to be in the mix for the endorsement, I’d better be sure to fulfill their requirements, such as getting delegate signatures. But to be fair to Liz, I felt I couldn’t unanimously make the decision. But in my mind, it was already partially made, and maybe she sensed this too, which wasn’t helping. 
+That’s the thing about some ideas. If I get one in my head, and you tell me not to do it, I might just try it because of that opposition. Some look at that chip on the shoulder attitude as childish. I can’t say that it wasn’t. But it is an aspect of my personality which has its upside in certain situations.
+
+Now, to emphasize, if proving others wrong was my only intent, that would be a fairly immature way to approach decision making; it’s also vulnerable to exploitation. But I can’t hide from the fact that there was a bit of that going on, at least in the beginning of the decision-making process. At this point I remembered Phil backing out in part because of his family. Was I going to be risking my most important relationship if I went ahead with this? 
+
+Of the key people I’d involved in the decision, two were in support, two were neutral, and two were against it. 
+
+If all were weighted equally, that would leave me to break the tie.
+
+Because the election was fast approaching, and it was traditional to campaign for some period of time before the election, time was running very short. Sitting on the fence too much longer simply wasn’t an option.
